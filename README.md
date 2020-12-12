@@ -1,7 +1,8 @@
-# GPT2_REGULAR
+# GPT-2 Base Models Demo
+version 10.12.2020
 
-This repository is based on nshepperd/gpt-2. Some changes were made for training on Colab.
+The code is based on https://github.com/nshepperd/gpt-2 by N Shepperd, with small changes by Peter S
 
-https://colab.research.google.com/drive/1V9fGyRkw7gqi9d02h1yJ3zy0Dnyw57Vd
+This code allows to generate text from "Base" GPT-2 models - the models which were NOT fine-tuned. 
 
-
+To run the code go to GPT_2_DEMO_BASE_MODELS.ipynb and hit "open in Colab".
