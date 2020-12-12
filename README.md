@@ -6,3 +6,7 @@ The code is based on https://github.com/nshepperd/gpt-2 by N Shepperd, with smal
 This code allows to generate text from "Base" GPT-2 models - the models which were NOT fine-tuned. 
 
 To run the code go to GPT_2_DEMO_BASE_MODELS.ipynb and hit "open in Colab".
+
+If you want to experiment with fine-tuning the GPT-2 check out this repository:
+
+https://github.com/PeterS111/GPT-2_DEMO_FINE_TUNING
