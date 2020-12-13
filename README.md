@@ -10,3 +10,9 @@ To run the code go to GPT_2_DEMO_BASE_MODELS.ipynb and hit "open in Colab".
 If you want to experiment with fine-tuning the GPT-2 check out this repository:
 
 https://github.com/PeterS111/GPT-2_DEMO_FINE_TUNING
+
+Make sure you also check Adrian's Lyrics Generator:
+
+https://github.com/adigoryl/Styled-Lyrics-Generator-GPT2
+
+https://colab.research.google.com/drive/1Gl5zGR8vQM6q7fV0XAPvWg5sX1ZNgDOs
